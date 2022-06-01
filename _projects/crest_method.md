@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Method development
+description: a project with a background image
+img: assets/img/12.jpg
 importance: 1
-category: test
+category: crest
 ---
 
 Every project has a beautiful feature showcase page.
