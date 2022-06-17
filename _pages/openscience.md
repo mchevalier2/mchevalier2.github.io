@@ -41,7 +41,7 @@ How to cite: Chevalier, M.: _crestr_: an R package to perform probabilistic clim
 <br />
 ##### _gbif4crest_ calibration dataset
 
-This database contains all the presence records of plants, beetles, rodents chironomids, foraminifera and diatoms contained in the GBIF database in October 2020. The coordinates of the presence records have been homogenised on a 0.25x0.25° grid, and corresponding bioclimatic values from the Worldclim2.0 and World Ocean Atlas databases have been added. These data are formatted and ready to use by the CREST software. Additional python scripts have been added to group plant species into pollen types. 
+This database contains all the presence records of plants, beetles, rodents chironomids, foraminifera and diatoms contained in the GBIF database in October 2020. The coordinates of the presence records have been homogenised on a 0.25x0.25° grid, and corresponding bioclimatic values from the Worldclim2.0 and World Ocean Atlas databases have been added. These data are formatted and ready to use by the CREST software. Additional python scripts have been added to group plant species into pollen types.
 
 
 <p align="center">
@@ -49,7 +49,7 @@ This database contains all the presence records of plants, beetles, rodents chir
 </p>
 
 
-How to cite: Chevalier, M.: GBIF database for CREST, [https://figshare.com/articles/GBIF_for_CREST_database/6743207](https://figshare.com/articles/GBIF_for_CREST_database/6743207), doi:10.6084/m9.figshare.6743207, 2018.
+How to cite: Chevalier, M.: GBIF database for CREST, doi:[10.6084/m9.figshare.6743207](https://figshare.com/articles/GBIF_for_CREST_database/6743207), 2018.
 
 
 <br />
