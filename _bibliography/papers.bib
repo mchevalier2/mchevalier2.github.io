@@ -1,4 +1,40 @@
 
+@article{oriani_eupollmap_2023,
+    abbr = {Open-Access},
+    title = {{EUPollMap}: {The} {European} atlas of contemporary pollen distribution maps derived from an integrated {Kriging} interpolation approach},
+	volume = {2023},
+	copyright = {All rights reserved},
+	shorttitle = {{EUPollMap}},
+	html = {https://essd.copernicus.org/preprints/essd-2022-364/},
+	doi = {10.5194/essd-2022-364},
+	abstract = {Modern and fossil pollen data are widely used in paleoenvironmental research to characterise past environmental changes in a given location. However, their discrete and discontinuous nature can limit the inferences that can be made from them. In contrasts, deriving continuous spatial maps of the pollen presence from point-based datasets would enable more robust regional characterization of such past changes. To address this problem, we propose a comprehensive collection of European 5 pollen presence maps including 194 pollen taxa derived from the interpolation of pollen data from the Eurasian Modern Pollen Database (EMPD v2) restricted to the Euro-Mediterranean Basin. To do so, we developed an automatic Kriging-based interpolation workflow to select an optimal geostatistical model describing the spatial variability for each taxon. The output of the interpolation model consists in a series of multivariate predictive maps of Europe at 25-km scale, showing the occurrence probability of pollen taxa, the predicted presence based on diverse probability thresholds, and the interpolation uncertainty 10 for each taxon. Visual inspections of the maps and systematic cross-validation tests showed that the ensemble of predictions is reliable even in data-scarce regions, with a relatively low uncertainty, and robust to complex and non-stationary pollen distributions. The maps, freely distributed as GeoTIFF files, are proposed as a ready-to-use tool for spatial paleoenvironmental characterization. Since the interpolation model only uses the coordinates of the observation to spatialise the data, similar maps could also be derived for fossil pollen records, thus enabling the spatial characterization of past changes, and possibly, their 15 subsequent use for quantitative paleoclimate reconstructions.},
+	language = {en},
+	urldate = {2023-02-09},
+	journal = {Earth System Science Data Discussion},
+	author = {Oriani, Fabio and Mariethoz, Gregoire and Chevalier, Manuel},
+	month = feb,
+	year = {preprint},
+	pages = {1--16},
+}
+
+
+
+@article{chevalier_refining_2022,
+    abbr = {Open-Access},
+	title = {Refining data-data and data-model biome comparisons using the {Earth} {Movers}' {Distance} ({EMD})},
+	html = {https://egusphere.copernicus.org/preprints/2022/egusphere-2022-489/},
+	doi = {10.5194/egusphere-2022-489},
+	abstract = {Biome reconstructions are commonly used in data-data and data-model comparison studies to understand past 20 vegetation dynamics. However, most of these assessments are based on the direct comparison of dominant biomes inferred from pollen samples or vegetation simulations. Dominant biomes are deduced from pollen samples using biome affinity scores, which aggregate pollen percentages of taxa assigned to the different biomes. While this approach generates good results over a large range of temporal and spatial scales, reducing pollen assemblages to a single dominant biome can substantially simplify the vegetation signal preserved in pollen samples and even bias conclusions when, for instance, 25 minimal changes in pollen percentages can change the inferred dominant biome. To resolve these issues, we propose to use the Earth Movers’ distance (EMD) as a new metric to compare distributions of biome scores. The EMD has two main advantages: 1) the distributions of biome scores do not need to be reduced to their dominant biome, and the full breadth of the data is taken into account, and 2) different weights can be given to different types of disagreements to account for the ecological distance (e.g. reconstructing a temperate forest instead of a boreal forest is ecologically less wrong than 30 reconstructing the temperate forest instead of a desert). We also introduce EMD-based statistical tests that determine if the similarity of two samples is significantly better than a random association. This paper illustrates the use of the EMD across a series of palaeoecological data-data and data-model case studies based on published data and simulations. These applications highlight the diverse types of analysis where the EMD adds value compared to analyses of the dominant biomes only. The EMD and the statistical tests are included in the paleotools R package (https://github.com/mchevalier2/paleotools).},
+	language = {en},
+	urldate = {2022-07-18},
+	journal = {Climate of the Past Discussions},
+	author = {Chevalier, Manuel and Dallmeyer, Anne and Weitzel, Nils and Li, Chenzhi and Baudouin, Jean-Philippe and Herzschuh, Ulrike and Cao, Xianyong and Hense, Andreas},
+	month = jul,
+	year = {preprint}
+}
+
+
+
 @article{Chevalier2022crestr,
     abbr = {Open-Access},
     abstract = {Statistical climate reconstruction techniques are fundamental tools to study past climate variability from fossil proxy data. In particular, the methods based on probability density functions (or PDFs) can be used in various environments and with different climate proxies because they rely on elementary calibration data (i.e. modern geolocalised presence data). However, the difficulty of accessing and curating these calibration data and the complexity of interpreting probabilistic results have often limited their use in palaeoclimatological studies. Here, I introduce a new R package (crestr) to apply the PDF-based method CREST (Climate REconstruction SofTware) on diverse palaeoecological datasets and address these problems. crestr includes a globally curated calibration dataset for six common climate proxies (i.e. plants, beetles, chironomids, rodents, foraminifera, and dinoflagellate cysts) associated with an extensive range of climate variables (20 terrestrial and 19 marine variables) that enables its use in most terrestrial and marine environments. Private data collections can also be used instead of, or in combination with, the provided calibration dataset. The package includes a suite of graphical diagnostic tools to represent the data at each step of the reconstruction process and provide insights into the effect of the different modelling assumptions and external factors that underlie a reconstruction. With this R package, the CREST method can now be used in a scriptable environment and thus be more easily integrated with existing workflows. It is hoped that crestr will be used to produce the much-needed quantified climate reconstructions from the many regions where they are currently lacking, despite the availability of suitable fossil records. To support this development, the use of the package is illustrated with a step-by-step replication of a 790 000-year-long mean annual temperature reconstruction based on a pollen record from southeastern Africa.},
@@ -83,7 +119,21 @@
     selected={true}
 }
 
-
+@article{hui_multiple_2023,
+	title = {Multiple forcing on {Late} {Miocene} {East} {Asian} {Summer} {Monsoon} {Precipitation} {Variability} in {NE} {Tibetan} {Plateau}},
+	volume = {221},
+	issn = {03418162},
+	html = {https://linkinghub.elsevier.com/retrieve/pii/S034181622200738X},
+	doi = {10.1016/j.catena.2022.106752},
+	abstract = {Understanding how the East Asian Summer Monsoon (EASM) evolves at different time scales affords a valuable opportunity to reveal the interactions between the hydrosphere, land, oceans and atmosphere. However, the preQuaternary evolutionary history and the driving forces that controlled its variability in response to different boundary conditions remain enigmatic. Here, we focus on the late Miocene ({\textasciitilde}10.8 to 6.3 Ma) – a period of profound climatic and topographic changes in Asia – and present a quantitative reconstruction of EASM pre­ cipitation using the probabilistic CREST (Climate Reconstruction Software) method with a high temporal reso­ lution pollen record from the Tianshui Basin in NE Tibetan Plateau (TP). Our new EASM precipitation record shows a slowly decreasing long-term trend during the period of {\textasciitilde} 10.8–7.6 Ma, which was followed by a strengthening period from {\textasciitilde} 7.6 to 6.3 Ma with a large amplitude of precipitation variability. We argue the decrease and increase periods of EASM precipitation were primarily response to late Miocene global cooling and TP uplift after {\textasciitilde} 8 Ma, respectively. These results are supported by existing climate model simulations, wherein both global climate and paleotopography play key roles in regulating the long-term evolution of late Miocene EASM. On orbital time scales, the precipitation time series exhibit a dominant {\textasciitilde} 410 kyr eccentricity periodicity, with lower (higher) values intervals corresponding to eccentricity minima (maximum). The synchronous phase of the precipitation and eccentricity records indicate that the eccentricity exerts a dominant influence on the EASM precipitation cycles via its modulation of the precessional amplitude, and the period expansion and contraction of Antarctic ice sheet (AIS) also probably play an important role during that time. Our quantitative late Miocene EASM precipitation records provide new insight into late Miocene EASM precipitation evolution and its relation with global climate, paleotopography, and cryosphere.},
+	language = {en},
+	urldate = {2022-11-10},
+	journal = {CATENA},
+	author = {Hui, Zhengchuang and Liu, Jia and Chevalier, Manuel and Wei, Xiao and Chen, Peng and Zhan, Jun and Peng, Tingjiang and Zhou, Xuewen},
+	month = feb,
+	year = {2023},
+	pages = {106752},
+}
 
 @article{Herzschuh2022,
     abbr = {Open-Access},
