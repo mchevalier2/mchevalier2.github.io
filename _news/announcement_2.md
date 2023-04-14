@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-06-15 16:11:00-0400
+date: 2023-04-14 16:11:00-0400
 inline: true
 ---
 
-My latest publication is available as a preprint.
+I will be in Vienna for the EGU. Come check my poster on CREST latest developments.

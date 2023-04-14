@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-01-01 15:59:00-0400
+date: 2022-06-13 15:59:00-0400
 inline: true
 ---
 
-My new website is now officially online.
+A preprint of my latest publication is now available [here](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-489/)
