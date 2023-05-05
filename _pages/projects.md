@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research projects
+title: projects
 permalink: /projects/
 description:
 nav: true
@@ -8,6 +8,8 @@ nav_order: 1
 display_categories: [crest, work, fun, test]
 horizontal: false
 ---
+
+This page is currently in development. More will come real soon.
 
 <!-- pages/projects.md -->
 <div class="projects">
