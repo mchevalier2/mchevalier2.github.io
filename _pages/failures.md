@@ -39,7 +39,7 @@ nav_order: 5
 
 <ul>
     <li><font style="color:MediumSeaGreen;">Personal project in the Palmod phase III consortium (20 months), University of Bonn, Germany.</font></li>
-    <li><font style="color:LightSteelBlue;">DFG proposal to support my position and one PhD student for 3 years, University of Hamburg, Germany [<em>In review</em>].</font></li>
+    <li><font style="color:OrangeRed;">DFG proposal to support my position and one PhD student for 3 years, University of Hamburg, Germany.</font></li>
     <li><font style="color:OrangeRed;">Associate Editor position for Nature Communications, Berlin, Germany.</font></li>
     <li><font style="color:OrangeRed;">Assistant Professor in Earth system and Climate Sciences at Utrecht University, the Netherlands.</font></li>
     <li><font style="color:OrangeRed;">Assistant Professor in past environmental change in high mountain regions at Utrecht University, the Netherlands.</font></li>
