@@ -1,0 +1,44 @@
+<script>
+javascript
+// Define the URL of your Google Scholar profile page
+const profileUrl = 'https://scholar.google.com/citations?user=LwFlIRkAAAAJ';
+
+// Fetch the HTML content of the profile page
+fetch(profileUrl)
+ .then(response => response.text())
+ .then(htmlContent => {
+   // Parse the HTML content using DOM manipulation
+   const parser = new DOMParser();
+   const doc = parser.parseFromString(htmlContent, 'text/html');
+
+   // Extract the publication elements from the parsed HTML
+   const publicationElements = doc.querySelectorAll('.gs_ri');
+
+   // Iterate through the publication elements and extract the relevant information
+   const publications = Array.from(publicationElements).map(element => {
+     const title = element.querySelector('.gs_rt a').innerText;
+     const authors = element.querySelector('.gs_a').innerText;
+     const year = element.querySelector('.gs_ri .gs_a+span').innerText;
+     const citationCount = element.querySelector('.gs_ri .gs_fl a:nth-child(2)').innerText;
+
+     return { title, authors, year, citationCount };
+   });
+
+   // Generate the HTML for the publication list
+   const publicationListHTML = publications.map(publication => `
+     <div>
+       <h3>${publication.title}</h3>
+       <p>${publication.authors}</p>
+       <p>${publication.year}</p>
+       <p>${publication.citationCount}</p>
+     </div>
+   `).join('');
+
+   // Insert the publication list HTML into a specific element on your GitHub.io webpage
+   const publicationListContainer = document.getElementById('publication-list');
+   publicationListContainer.innerHTML = publicationListHTML;
+ })
+ .catch(error => {
+   console.error('Error fetching publication data:', error);
+ });
+ </script>

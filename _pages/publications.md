@@ -16,3 +16,6 @@ nav_order: 2
 {% endfor %}
 
 </div>
+
+<div id="publication-list" > Publications </div>
+<p id="publication-list">A Paragraph</p>
