@@ -19,20 +19,19 @@
 
 
 
-@article{chevalier_refining_2022,
+@article{chevalier_EMD_2023,
     abbr = {Open-Access},
-	title = {Refining data-data and data-model biome comparisons using the {Earth} {Movers}' {Distance} ({EMD})},
-	html = {https://egusphere.copernicus.org/preprints/2022/egusphere-2022-489/},
-	doi = {10.5194/egusphere-2022-489},
-	abstract = {Biome reconstructions are commonly used in data-data and data-model comparison studies to understand past 20 vegetation dynamics. However, most of these assessments are based on the direct comparison of dominant biomes inferred from pollen samples or vegetation simulations. Dominant biomes are deduced from pollen samples using biome affinity scores, which aggregate pollen percentages of taxa assigned to the different biomes. While this approach generates good results over a large range of temporal and spatial scales, reducing pollen assemblages to a single dominant biome can substantially simplify the vegetation signal preserved in pollen samples and even bias conclusions when, for instance, 25 minimal changes in pollen percentages can change the inferred dominant biome. To resolve these issues, we propose to use the Earth Movers’ distance (EMD) as a new metric to compare distributions of biome scores. The EMD has two main advantages: 1) the distributions of biome scores do not need to be reduced to their dominant biome, and the full breadth of the data is taken into account, and 2) different weights can be given to different types of disagreements to account for the ecological distance (e.g. reconstructing a temperate forest instead of a boreal forest is ecologically less wrong than 30 reconstructing the temperate forest instead of a desert). We also introduce EMD-based statistical tests that determine if the similarity of two samples is significantly better than a random association. This paper illustrates the use of the EMD across a series of palaeoecological data-data and data-model case studies based on published data and simulations. These applications highlight the diverse types of analysis where the EMD adds value compared to analyses of the dominant biomes only. The EMD and the statistical tests are included in the paleotools R package (https://github.com/mchevalier2/paleotools).},
-	language = {en},
-	urldate = {2022-07-18},
-	journal = {Climate of the Past Discussions},
+    title = {Reﬁning data–data and data–model vegetation comparisons using the Earth mover’s distance ({EMD})},
+	volume = {19},
+	rights = {All rights reserved},
+	doi = {10.5194/cp-19-1043-2023},
+	pages = {1043--1060},
+	journal = {Climate of the Past},
 	author = {Chevalier, Manuel and Dallmeyer, Anne and Weitzel, Nils and Li, Chenzhi and Baudouin, Jean-Philippe and Herzschuh, Ulrike and Cao, Xianyong and Hense, Andreas},
-	month = jul,
-	year = {preprint}
+	year = {2023},
+    html = {https://www.doi.org/10.5194/cp-19-1043-2023},
+    abstract = {Comparing temporal and spatial vegetation changes between reconstructions or between reconstructions and model simulations requires carefully selecting an appropriate evaluation metric. A common way of comparing reconstructed and simulated vegetation changes involves measuring the agreement between pollen- or model-derived unary vegetation estimates, such as the biome or plant functional type (PFT) with the highest affinity scores. While this approach based on summarising the vegetation signal into unary vegetation estimates performs well in general, it overlooks the details of the underlying vegetation structure. However, this underlying data structure can influence conclusions since minor variations in pollen percentages modify which biome or PFT has the highest affinity score (i.e. modify the unary vegetation estimate). To overcome this limitation, we propose using the Earth mover's distance (EMD) to quantify the mismatch between vegetation distributions such as biome or PFT affinity scores. The EMD circumvents the issue of summarising the data into unary biome or PFT estimates by considering the entire range of biome or PFT affinity scores to calculate a distance between the compared entities. In addition, each type of mismatch can be given a specific weight to account for case-specific ecological distances or, said differently, to account for the fact that reconstructing a temperate forest instead of a boreal forest is ecologically more coherent than reconstructing a temperate forest instead of a desert. We also introduce two EMD-based statistical tests that determine (1) if the similarity of two samples is significantly better than a random association given a particular context and (2) if the pairing between two datasets is better than might be expected by chance. To illustrate the potential and the advantages of the EMD as well as the tests in vegetation comparison studies, we reproduce different case studies based on previously published simulated and reconstructed biome changes for Europe and capitalise on the advantages of the EMD to refine the interpretations of past vegetation changes by highlighting that flickering unary estimates, which give an impression of high vegetation instability, can correspond to gradual vegetation changes with low EMD values between contiguous samples (case study 1). We also reproduce data–model comparisons for five specific time slices to identify those that are statistically more robust than a random agreement while accounting for the underlying vegetation structure of each pollen sample (case study 2). The EMD and the statistical tests are included in the paleotools R package (https://github.com/mchevalier2/paleotools, last access: 3 May 2023).},
 }
-
 
 
 @article{Chevalier2022crestr,
@@ -141,24 +140,27 @@
     author = {Herzschuh, Ulrike and B{\"{o}}hmer, Thomas and Chevalier, Manuel and Dallmeyer, Anne and Li, Chenzhi},
     doi = {10.5194/egusphere-2022-127},
     html = {https://doi.org/10.5194/egusphere-2022-127},
-    journal = {Climate of the Past Discussions},
+    journal = {Climate of the Past},
     number = {April},
     pages = {0--22},
     title = {{Holocene temperature and precipitation patterns depart from the Northern Hemisphere mean trends}},
-    year = {preprint},
+    year = {in press},
     html = {https://www.doi.org/10.5194/egusphere-2022-127}
 }
 
-@article{Herzschuh2022a,
+
+@article{Herzschuh2023-data,
     abbr = {Open-Access},
-    abstract = {Here we describe the LegacyClimate 1.0, a dataset of the reconstruction of mean July temperature (TJuly), mean annual temperature (Tann), and annual precipitation (Pann) from 2594 fossil pollen records from the Northern Hemisphere spanning the entire Holocene with some records reaching back to the Last Glacial. Two reconstruction methods, the Modern Analogue Technique (MAT) and Weighted-Averaging Partial-Least Squares regression (WA-PLS) reveal similar results regarding spatial and temporal patterns. To reduce the impact of precipitation on temperature reconstruction and vice versa, we also provide reconstructions using tailored modern pollen data limiting the range of the corresponding other climate variables. We assess the reliability of the reconstructions using information from the spatial distributions of the root-mean squared error of prediction and reconstruction significance tests. The dataset is beneficial for climate proxy synthesis studies and to evaluate the output of climate models and thus help to improve the models themselves. We provide our compilation of reconstructed TJuly, Tann, and Pann as open-access datasets at PANGAEA (https://doi.pangaea.de/10.1594/PANGAEA.930512; Herzschuh et al., 2021). R code for the reconstructions is provided at Zenodo (https://doi.org/10.5281/zenodo.5910989; Herzschuh et al., 2022), including harmonized open-access modern and fossil datasets used for the reconstructions, so that customized reconstructions can be easily established.},
-    author = {Herzschuh, Ulrike and Li, Chenzhi and Chevalier, Manuel and Cao, Xianyong and Bigelow, Nancy H and Nazarova, Larisa and Novenko, Elena Y and Park, Jungjae and Peyron, Odile and Rudaya, Natalia A and Lyudmila, S and Tarasov, Pavel E and Wang, Yongbo and Wen, Ruilin and Xu, Qinghai and Terrestrial, Polar and Systems, Environmental},
+    abstract = {Here we describe LegacyClimate 1.0, a dataset of the reconstruction of the mean July temperature (TJuly), mean annual temperature (Tann), and annual precipitation (Pann) from 2594 fossil pollen records from the Northern Hemisphere, spanning the entire Holocene, with some records reaching back to the Last Glacial Period. Two reconstruction methods, the modern analog technique (MAT) and weighted averaging partial least squares regression (WA-PLS), reveal similar results regarding spatial and temporal patterns. To reduce the impact of precipitation on temperature reconstruction, and vice versa, we also provide reconstructions using tailored modern pollen data, limiting the range of the corresponding other climate variables. We assess the reliability of the reconstructions, using information from the spatial distributions of the root mean squared error in the prediction and reconstruction significance tests. The dataset is beneficial for synthesis studies of proxy-based reconstructions and to evaluate the output of climate models and thus help to improve the models themselves. We provide our compilation of reconstructed TJuly, Tann, and Pann as open-access datasets at PANGAEA (https://doi.org/10.1594/PANGAEA.930512; Herzschuh et al., 2023a). The R code for the reconstructions is provided at Zenodo (https://doi.org/10.5281/zenodo.7887565; Herzschuh et al., 2023b), including the harmonized open-access modern and fossil datasets used for the reconstructions, so that customized reconstructions can be easily established.},
+    author = {Herzschuh, Ulrike and Böhmer, Thomas and Li, Chenzhi and Chevalier, Manuel and Hébert, Raphaël and Dallmeyer, Anne and Cao, Xianyong and Bigelow, Nancy H and Nazarova, Larisa and Novenko, Elena Y and Park, Jungjae and Peyron, Odile and Rudaya, Natalia A and Schlütz, Frank and Shumilovskikh, Lyudmila S and Tarasov, Pavel E and Wang, Yongbo and Wen, Ruilin and Xu, Qinghai and Zheng, Zhuo},
     doi = {10.5194/essd-2022-38},
-    journal = {Earth System Science Data Discussion},
+    journal = {Earth System Science Data},
     number = {February},
     title = {{LegacyClimate 1.0: A dataset of pollen-based climate reconstructions from 2594 Northern Hemisphere sites covering the late Quaternary}},
-    year = {preprint},
-    html = {https://www.doi.org/10.5194/essd-2022-38}
+    year = {2023},
+    pages = {2235--2258},
+    volume = {15},
+    html = {https://doi.org/10.5194/essd-15-2235-2023}
 }
 
 @article{Maezumi2021,
