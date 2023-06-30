@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-04-15 07:59:00-0400
+date: 2023-06-19 07:59:00-0400
 inline: true
 ---
 
-The _crestr_ associated publication is available [here](https://cp.copernicus.org/articles/18/821/2022/) :sparkles: :smile:
+With great honour, I am proud to announced that I was elected to be the President of the [Paleoclimate Commission of INQUA](https://inqua.org/commissions/palcom) for the upcoming inter-congress phase (2023-2027).
