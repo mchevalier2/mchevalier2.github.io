@@ -5,11 +5,11 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 1
-display_categories: [crest, work, fun, test]
+display_categories: [Modelling data uncertainties, Palaeoenvironmental reconstructions, Community-focused projects]
 horizontal: false
 ---
 
-This page is currently in development. More will come real soon.
+Due to technical issues, the content of each project's subpage is not accessible. I am working on this.
 
 <!-- pages/projects.md -->
 <div class="projects">

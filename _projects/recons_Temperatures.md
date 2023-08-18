@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Method development
-description: a project with a background image
-img: assets/img/12.jpg
+title: Past tropical temperature
+description: Large temperature swings are crucial to understand water availability changes (Fig. reproduced from Baxter et al. 2023, Nature)
+img: assets/img/temp-ai.png
 importance: 1
-category: crest
+category: Palaeoenvironmental reconstructions
 ---
 
 Every project has a beautiful feature showcase page.

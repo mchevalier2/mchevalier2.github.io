@@ -1,10 +1,10 @@
 ---
 layout: page
-title: _crestr_ R package
-description: a project with a background image
-img: assets/img/3.jpg
+title: Miocene monsoon in China
+description: Impact of the uplift of the Tibetan Plateau 5-17 Million years ago
+img: assets/img/MioceneGlobal.jpg
 importance: 3
-category: crest
+category: Palaeoenvironmental reconstructions
 ---
 
 Every project has a beautiful feature showcase page.

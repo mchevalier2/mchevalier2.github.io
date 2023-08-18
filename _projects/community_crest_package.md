@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Multiproxy, global calibration dataset
-description: a project with a background image
+title: The crestr R package
+description: A universal tool to analyse palaeoecological datasets
 img: assets/img/3.jpg
-importance: 2
-category: crest
+importance: 1
+category: Community-focused projects
 ---
 
 Every project has a beautiful feature showcase page.
