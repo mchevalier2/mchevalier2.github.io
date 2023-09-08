@@ -2,7 +2,7 @@
 layout: page
 permalink: /assets/museumfailures/
 title: museum of failures
-description: With this page inspired by the original Swedish Museum of Failures, I proudly own all my attempts to get grants or jobs since my PhD. Even if most of them were unsuccessful, they all were foundational experiences that shaped my career and research. Tring, trying, trying until luck turns around.
+description: Drawing inspiration from the original Swedish Museum of Failures, I showcase my journey of attempts to secure grants and job opportunities since my PhD. Although most of these endeavours did not yield the desired outcomes, they have all been integral experiences that have sculpted my career and enriched my research. It is, however, critical to highlight that my journey is shared by many, even if our perception of it may be biased due to the prevalence of sharing successes over rejections. Rejection is an inherent part of the journey, one that offers valuable lessons for progress. Tenacity and perseverance are part of the process to pave the path to success (however defined). Trying, again and again, until luck eventually smiles upon us. &#128522;
 nav: false
 nav_order: 5
 ---
