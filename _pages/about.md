@@ -31,7 +31,7 @@ Accurate quantitative estimates of past climate play a vital role in characteris
 #### **Work ethics**
 
 Despite the urgency of comprehensively analysing numerous records to address quantification data gaps, I hold a deep appreciation for the unique character of each individual record. My research is dedicated to the meticulous examination of these records on an individual basis, thus circumventing the pitfalls associated with large-scale, indiscriminate analyses. To achieve this, I aim to collaborate closely with regional and proxy experts, fostering the highest level of accuracy in our data modelling and interpretation. By working in partnership, we can develop collaborative initiatives encompassing a wide range of topics falling within the broad scope of _enhancing our comprehension of past climate change across the Global South_. Drawing upon my extensive experience with various climate proxies, derived from diverse regions and spanning different time scales, I am well-equipped to contribute to our collective pursuit of knowledge in this field.
-\
+
 
 **Irrespective of your current career stage (student, Early-Career Researcher, or established Scientist) or location in the World, I am interested in working with you to further our understanding of past climate change in the Global South.** You can reach me at [chevalier.manuel@gmail.com](chevalier.manuel@gmail.com).
 
