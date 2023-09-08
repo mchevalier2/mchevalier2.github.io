@@ -28,12 +28,14 @@ I am a paleoclimatologist specialising in the development and application of adv
 Accurate quantitative estimates of past climate play a vital role in characterising past climate changes and assessing the performance of Earth System Models (ESMs). However, recent studies compiling climate data have revealed a significant disparity in the quality and quantity of quantified climate reconstructions between tropical and southern temperate regions, compared to the wealth of data available from the Northern Hemisphere extratropics and, to some extent, Antarctica. This glaring disparity underscores our limited understanding of past climate variability in these crucial regions, introducing considerable uncertainty into both past and future climate simulations. Beyond the evident challenges this poses for our grasp of regional climate dynamics, these pronounced "quantification data gaps" also cast a shadow over our global understanding of the climate system's dynamics as a whole. Given the contemporary context of ongoing and projected climate change, there exists a pressing imperative to acquire more comprehensive and refined climate reconstructions from these less-studied regions. Enhanced comprehension of past climate variations in these areas is pivotal, as it provides essential pieces of the puzzle and aids in unraveling the spatiotemporal connections among various elements of the global climate system."
 
 
-#### **If you are interested in addressing this fundamental gap, contact me**
+#### **Work ethics**
 
 Despite the urgency of comprehensively analysing numerous records to address quantification data gaps, I hold a deep appreciation for the unique character of each individual record. My research is dedicated to the meticulous examination of these records on an individual basis, thus circumventing the pitfalls associated with large-scale, indiscriminate analyses. To achieve this, I aim to collaborate closely with regional and proxy experts, fostering the highest level of accuracy in our data modelling and interpretation. By working in partnership, we can develop collaborative initiatives encompassing a wide range of topics falling within the broad scope of _enhancing our comprehension of past climate change across the Global South_. Drawing upon my extensive experience with various climate proxies, derived from diverse regions and spanning different time scales, I am well-equipped to contribute to our collective pursuit of knowledge in this field.
 \
 
-**Irrespective of your current career stage (student, Early-Career Researcher, or established Scientist), I am interested in working with you to further our understanding of past climate change in the Global South.**
+**Irrespective of your current career stage (student, Early-Career Researcher, or established Scientist) or location in the World, I am interested in working with you to further our understanding of past climate change in the Global South.** You can reach me at [chevalier.manuel@gmail.com](chevalier.manuel@gmail.com).
+
+\
 
 
 
