@@ -4,7 +4,7 @@ title: The pSESYNTH consortium
 description: Community mobilisation for a multidisciplinary paleo-database of the Global South
 img: assets/img/INQUA-group-psesynth.jpg
 importance: 4
-category: Community-focused projects
+category: Community services
 ---
 
 

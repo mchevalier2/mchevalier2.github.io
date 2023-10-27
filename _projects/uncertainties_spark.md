@@ -1,10 +1,10 @@
 ---
 layout: page
-title: EUPollMap
-description: Modelling spatial uncertainties
-img: assets/img/spatial_uncertainties.jpg
+title: Beyond the point-based representation
+description: Modelling spatial/catchment uncertainties
+img: assets/img/spatial_uncertainties.png
 importance: 3
-category: Modelling data uncertainties
+category: Embracing data uncertainties
 ---
 
 Every project has a beautiful feature showcase page.

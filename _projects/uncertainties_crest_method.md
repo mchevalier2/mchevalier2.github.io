@@ -1,10 +1,10 @@
 ---
 layout: page
-title: The CREST method
+title: Climate reconstruction method - CREST
 description: Modelling taxonomic and climatic uncertainties
-img: assets/img/crest_uncertainties.jpg
+img: assets/img/crest_uncertainties.png
 importance: 1
-category: Modelling data uncertainties
+category: Embracing data uncertainties
 ---
 
 Every project has a beautiful feature showcase page.

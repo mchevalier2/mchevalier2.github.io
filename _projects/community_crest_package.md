@@ -4,7 +4,7 @@ title: The crestr R package
 description: A universal tool to analyse palaeoecological datasets
 img: assets/img/3.jpg
 importance: 1
-category: Community-focused projects
+category: Community services
 ---
 
 Every project has a beautiful feature showcase page.

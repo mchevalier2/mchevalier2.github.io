@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Working with dating errors
-description: Modelling temporal uncertainties
+title: More accurate interpretation of records
+description: Modelling temporal & dating uncertainties
 img: assets/img/age_uncertainties.jpg
 importance: 2
-category: Modelling data uncertainties
+category: Embracing data uncertainties
 ---
 
 Every project has a beautiful feature showcase page.

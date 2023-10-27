@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
 description:
 nav: true
 nav_order: 1
-display_categories: [Modelling data uncertainties, Palaeoenvironmental reconstructions, Community-focused projects]
+display_categories: [Embracing data uncertainties, Palaeoenvironmental reconstructions, Community services]
 horizontal: false
 ---
 

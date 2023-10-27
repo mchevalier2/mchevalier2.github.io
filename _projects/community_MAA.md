@@ -4,7 +4,7 @@ title: The Mapping Ancient Africa project
 description: A focus on past African Climates, Vegetation & Humans
 img: assets/img/INQUA-MAA.jpg
 importance: 3
-category: Community-focused projects
+category: Community services
 ---
 
 Every project has a beautiful feature showcase page.
