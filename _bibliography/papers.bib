@@ -12,7 +12,7 @@
 	urldate = {2023-02-09},
 	journal = {Earth System Science Data Discussion},
 	author = {Oriani, Fabio and Mariethoz, Gregoire and Chevalier, Manuel},
-	month = feb,
+	month = {},
 	year = {preprint},
 	pages = {1--16},
 }
@@ -29,6 +29,7 @@
 	journal = {Climate of the Past},
 	author = {Chevalier, Manuel and Dallmeyer, Anne and Weitzel, Nils and Li, Chenzhi and Baudouin, Jean-Philippe and Herzschuh, Ulrike and Cao, Xianyong and Hense, Andreas},
 	year = {2023},
+    month = {},
     html = {https://www.doi.org/10.5194/cp-19-1043-2023},
     abstract = {Comparing temporal and spatial vegetation changes between reconstructions or between reconstructions and model simulations requires carefully selecting an appropriate evaluation metric. A common way of comparing reconstructed and simulated vegetation changes involves measuring the agreement between pollen- or model-derived unary vegetation estimates, such as the biome or plant functional type (PFT) with the highest affinity scores. While this approach based on summarising the vegetation signal into unary vegetation estimates performs well in general, it overlooks the details of the underlying vegetation structure. However, this underlying data structure can influence conclusions since minor variations in pollen percentages modify which biome or PFT has the highest affinity score (i.e. modify the unary vegetation estimate). To overcome this limitation, we propose using the Earth mover's distance (EMD) to quantify the mismatch between vegetation distributions such as biome or PFT affinity scores. The EMD circumvents the issue of summarising the data into unary biome or PFT estimates by considering the entire range of biome or PFT affinity scores to calculate a distance between the compared entities. In addition, each type of mismatch can be given a specific weight to account for case-specific ecological distances or, said differently, to account for the fact that reconstructing a temperate forest instead of a boreal forest is ecologically more coherent than reconstructing a temperate forest instead of a desert. We also introduce two EMD-based statistical tests that determine (1) if the similarity of two samples is significantly better than a random association given a particular context and (2) if the pairing between two datasets is better than might be expected by chance. To illustrate the potential and the advantages of the EMD as well as the tests in vegetation comparison studies, we reproduce different case studies based on previously published simulated and reconstructed biome changes for Europe and capitalise on the advantages of the EMD to refine the interpretations of past vegetation changes by highlighting that flickering unary estimates, which give an impression of high vegetation instability, can correspond to gradual vegetation changes with low EMD values between contiguous samples (case study 1). We also reproduce data–model comparisons for five specific time slices to identify those that are statistically more robust than a random agreement while accounting for the underlying vegetation structure of each pollen sample (case study 2). The EMD and the statistical tests are included in the paleotools R package (https://github.com/mchevalier2/paleotools, last access: 3 May 2023).},
 }
@@ -133,18 +134,15 @@
     html = {https://www.doi.org/10.5194/cp-10-2081-2014}
 }
 
-@article{HUI2023111808,
-title = {Middle Miocene evolution of East Asian summer monsoon precipitation in the northeast part of the Tibetan Plateau based on a quantitative analysis of palynological records},
-journal = {Palaeogeography, Palaeoclimatology, Palaeoecology},
-volume = {630},
-pages = {111808},
-year = {2023},
-issn = {0031-0182},
-doi = {https://doi.org/10.1016/j.palaeo.2023.111808},
-url = {https://www.sciencedirect.com/science/article/pii/S0031018223004261},
-author = {Zhengchuang Hui and Xiao Wei and Zhendong Xue and Xuerong Zhao and Manuel Chevalier and Xue Lu and Jun Zhang and Tingjiang Peng and Yingyong Chen and Peng Chen},
-keywords = {Sporopollen, Quantitative climate reconstructions, CREST, Middle Miocene, EASM precipitation, NE Tibetan Plateau},
-abstract = {Characterized by elevated pCO2 levels and global warmth, the mid-Miocene climate is a valuable analogue for investigating how the East Asian Summer Monsoon (EASM) may evolve at different time scales. In this paper, we present a quantitative EASM precipitation record with a temporal resolution of ∼14 kyr during the mid-Miocene (∼15.97 to 13.64 Ma) by applying the probabilistic CREST (Climate Reconstruction Software) method to palynological records from the northeast part of the Tibetan Plateau. Reconstructed mid-Miocene EASM precipitation (∼860 mm) was almost twice that of today (∼450 mm), indicating much stronger EASM intensity. The reconstruction shows a gradual long-term decline on which was superimposed a stronger EASM period (∼15.97–14.54 Ma) followed by a relatively stable period (∼14.54–13.84 Ma) and a short period of reduced precipitation (∼13.84–13.64 Ma). The correspondence of EASM precipitation changes with the mid-Miocene climate optimum and west-east thermal gradients in equatorial Pacific suggests these two factors were the main driving forces for EASM evolution from ∼15.97 to 14.54 Ma, whereas the combined impact of global cooling and the northward shift of the Intertropical Convergence Zone is probably responsible for the slight decline of the EASM from ∼14.54 to 13.84 Ma. The weaker EASM between ∼13.84 and 13.64 Ma was most likely a response to the global significant cooling event Mi-3. On orbital time scales, the precipitation records exhibit a dominant ∼400 kyr periodicity, indicating EASM changes were mainly paced by eccentricity via the modulation of precessional amplitude, and the East Antarctic Ice Sheet variations were probably another important driving force.}
+
+@article{LaeppleNatGeo,
+    title = {Regional but not global temperature variability underestimated by climate models at supradecadal timescales},
+    journal = {Nature Geoscience},
+    year = {in press},
+    month = {},
+    doi = {TBD},
+    author = {Thomas Laepple and Elisa Ziegler and Nils Weitzel and Raphel Hebert and Beatrice Ellerhoff and Patricia Schoch and Belen Martrat and Oliver Bothe and Eduardo Morena-Chamarro and Manuel Chevalier and Annika Herbert and Kira Rehfeld},
+    abstract = {Knowledge of the characteristics of natural climate variability is vital when assessing the range of plausible future climate trajectories in the next decades to centuries. The reliable detection of climate fluctuations on multidecadal to centennial timescales depends on proxy reconstructions and model simulations as the instrumental record extends back only a few decades in most parts of the world. Systematic comparisons between model-simulated and proxy-based inferences of natural variability, however, often seem contradictory. Locally, simulated temperature variability is consistently smaller on multidecadal and longer timescales than is indicated by proxy-based reconstructions, implying that climate models or proxy interpretations might have deficiencies. In contrast, at global scales, studies found agreement between simulated and proxy reconstructed temperature variations. Here we review the evidence regarding the scale of natural temperature variability during recent millennia. We identify systematic reconstruction deficiencies that may contribute to differing local and global model–proxy agreement but conclude that they are probably insufficient to resolve such discrepancies. Instead, we argue that regional climate variations persisted for longer timescales than climate models simulating past climate states are able to reproduce. This would imply an underestimation of the regional variability on multidecadal and longer timescales and would bias climate projections and attribution studies. Thus, efforts are needed to improve the simulation of natural variability in climate models accompanied by further refining proxy-based inferences of variability.}
 }
 
 @article{hui_multiple_2023,
@@ -158,7 +156,7 @@ abstract = {Characterized by elevated pCO2 levels and global warmth, the mid-Mio
 	urldate = {2022-11-10},
 	journal = {CATENA},
 	author = {Hui, Zhengchuang and Liu, Jia and Chevalier, Manuel and Wei, Xiao and Chen, Peng and Zhan, Jun and Peng, Tingjiang and Zhou, Xuewen},
-	month = feb,
+	month = {feb},
 	year = {2023},
 	pages = {106752},
 }
@@ -174,6 +172,7 @@ abstract = {Characterized by elevated pCO2 levels and global warmth, the mid-Mio
     pages = {1481--1506},
 	number = {7},
     title = {Regional pollen-based Holocene temperature and precipitation patterns depart from the Northern Hemisphere mean trends},
+    month = {},
     year = {2023}
 }
 
@@ -187,6 +186,7 @@ abstract = {Characterized by elevated pCO2 levels and global warmth, the mid-Mio
     number = {February},
     title = {{LegacyClimate 1.0: A dataset of pollen-based climate reconstructions from 2594 Northern Hemisphere sites covering the late Quaternary}},
     year = {2023},
+    month = {},
     pages = {2235--2258},
     volume = {15},
     html = {https://doi.org/10.5194/essd-15-2235-2023}
@@ -284,6 +284,7 @@ abstract = {Characterized by elevated pCO2 levels and global warmth, the mid-Mio
     title = {{Orbital controls on Namib Desert hydroclimate over the past 50,000 years}},
     volume = {47},
     year = {2019},
+    month = {},
     html = {https://www.doi.org/10.1130/g46334.1}
 }
 
@@ -298,6 +299,7 @@ abstract = {Characterized by elevated pCO2 levels and global warmth, the mid-Mio
     title = {{Extreme hydroclimate response gradients within the western Cape Floristic region of South Africa since the Last Glacial Maximum}},
     volume = {219},
     year = {2019},
+    month = {},
     html = {https://www.doi.org/10.1016/j.quascirev.2019.07.006}
 }
 
@@ -415,6 +417,7 @@ abstract = {Characterized by elevated pCO2 levels and global warmth, the mid-Mio
     title = {{The dynamic relationship between temperate and tropical circulation systems across South Africa since the last glacial maximum}},
     volume = {174},
     year = {2017},
+    month = {},
     html = {https://www.doi.org/10.1016/j.quascirev.2017.08.011}
 }
 
@@ -473,6 +476,7 @@ abstract = {Characterized by elevated pCO2 levels and global warmth, the mid-Mio
     title = {{Evolving southwest African response to abrupt deglacial North Atlantic climate change events}},
     volume = {121},
     year = {2015},
+    month = {},
     html = {https://www.doi.org/10.1016/j.quascirev.2015.05.023}
 }
 
@@ -534,6 +538,7 @@ abstract = {Characterized by elevated pCO2 levels and global warmth, the mid-Mio
     title = {{Temperature Range Shifts for Three European Tree Species over the Last 10,000 Years}},
     volume = {7},
     year = {2016},
+    month = {},
     html = {https://www.doi.org/10.3389/fpls.2016.01581}
 }
 

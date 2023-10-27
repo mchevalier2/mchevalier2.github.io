@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-06-27 15:59:00-0400
+date: 2023-09-01 15:59:00-0400
 inline: true
 ---
 
-Another item added to the [museum of failures](https://mchevalier2.github.io/assets/museumfailures/)!
+Very excited to begin my new role as Project Leader in the [PalMod Phase 3 project](https://www.palmod.de).

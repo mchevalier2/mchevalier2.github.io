@@ -25,6 +25,8 @@ nav_order: 5
 ---
 
 <ul>
+
+    <li><font style="color:OrangeRed;">Assistant Professor or Associate Professor in Quaternary Geology at the Department of Geoscience at Aarhus University (AU).</font></li>
     <li><font style="color:OrangeRed;">Lecturer in Physical Geography position at Royal Holloway University of London, UK.</font></li>
     <li><font style="color:OrangeRed;">SNSF starting Grant for a Junior Professorship position at the University of Basel, Switzerland.</font></li>
 </ul>
