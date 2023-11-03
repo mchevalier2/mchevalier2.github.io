@@ -5,11 +5,16 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 1
-display_categories: [Embracing data uncertainties, Palaeoenvironmental reconstructions in the tropics, Community services]
+display_categories: [Palaeoenvironmental reconstructions in the tropics, Embracing data uncertainties, Community services]
 horizontal: false
 ---
 
-Due to technical issues, the content of each project's subpage is not accessible. I am working on this.
+This page summarises the array of research projects that currently hold my attention. These projects are categorized into concrete applications and uncertainty-based method developments, all interconnected to serve my overarching objective to unravel the puzzling intricacies of tropical climate dynamics in response to past abrupt climate change.
+
+
+<br/>
+
+Note: Due to technical issues, the content of some projects' page is not accessible. I am working on this.
 
 <!-- pages/projects.md -->
 <div class="projects">
