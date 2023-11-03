@@ -7,74 +7,80 @@ importance: 1
 category: Community services
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I developed _crestr_ to promote the use of the CREST climate reconstruction method I developed manytears back now. The package is entirely open source and anybody can use it in R.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+Detailed documentation is available on [the package's webpage](https://mchevalier2.github.io/crestr/index.html).
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+
+You can now quickly visualise how to run a reconstruction with the _crestr_ cheat sheet. This document summarises the main functionalities of the package and illustrates the main key step you will have to follow to reconsturct environmental parameters from your data. [download here](https://raw.githubusercontent.com/mchevalier2/crestr/master/webpage/crestr_cheatsheet_v1.3.0.pdf)
+
+<img src="https://raw.githubusercontent.com/mchevalier2/crestr/master/webpage/crestr_cheatsheet_thumbnail.png" width="60%" style="background:none; border:none; box-shadow:none;" style="display: block; margin: auto;" />
+
+## Example applications
+
+<br >
+
+<img src="https://raw.githubusercontent.com/mchevalier2/crestr/master/webpage/example-app.png" width="100%" style="background:none; border:none; box-shadow:none;" style="display: block; margin: auto;" />
+
+_(A) density of presence records available in my calibration dataset upscaled at a 1° resolution. The diamonds represent the location of the pollen records used to generate the reconstructions presented in B-D, and the coloured boxes represent the extent of their respective calibration zones. (B) Annual precipitation reconstructions from Lake Van, Turkey ([Chevalier, 2019](https://www.doi.org/10.1016/j.gloplacha.2019.01.016)), (C) Mean annual temperature reconstruction from Laguna Fùquene, Colombia (unpublished) and (D) Mean Annual temperature reconstruction from marine core MD96-2048 ([Chevalier et al., 2021](https://www.doi.org/10.1130/G47841.1))._
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## CREST in the scientific literature
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+
+<img src="https://raw.githubusercontent.com/mchevalier2/crestr/master/webpage/crest-use-02.png" width="100%" style="background:none; border:none; box-shadow:none;" style="display: block; margin: auto;" />
+
+- **2023**
+    - Hui, Z., Liu, J., Chevalier, M., Wei, X., Chen, P., Zhan, J., Peng, T., Zhou, X., 2023, Multiple forcing on Late Miocene East Asian Summer Monsoon Precipitation Variability in NE Tibetan Plateau. CATENA 221, 106752. [10.1016/j.catena.2022.106752](https://doi.org/10.1016/j.catena.2022.106752).
+- **2022**
+    - Gibson, M.E., McCoy, J., O’Keefe, J.M.K., Nuñez Otaño, N.B., Warny, S., Pound, M.J., 2022, Reconstructing Terrestrial Paleoclimates: A Comparison of the Co‐Existence Approach, Bayesian and Probability Reconstruction Techniques Using the UK Neogene. Paleoceanog. and Paleoclimatol. 37, e2021PA004358. [10.1029/2021PA004358](https://doi.org/10.1029/2021PA004358)
+- **2021**
+    - Chevalier, M., Chase, B.M., Quick, L.J., Dupont, L.M. and Johnson, T.C., 2021, Temperature change in subtropical southeastern Africa during the past 790,000 yr. Geology, 49, pp. 71–75. [10.1016/j.palaeo.2021.110609](https://www.doi.org/10.1016/j.palaeo.2021.110609)
+    - Hui, Z., Zhou, X., Chevalier, M., Wei, X., Pan, Y. and Chen, Y., 2021, Miocene East Asia summer monsoon precipitation variability and its possible driving forces. Palaeogeography, Palaeoclimatology, Palaeoecology, pp. 110609. [10.1130/G47841.1](https://www.doi.org/10.1130/G47841.1)
+    - Quick, L.J., Chase, B.M., Carr, A.S., Chevalier, M., Grobler, B.A. and Meadows, M.E., 2021, A 25,000 year record of climate and vegetation change from the southwestern Cape coast, South Africa. Quaternary Research, pp. 1–18. [10.1017/qua.2021.31](https://www.doi.org/10.1017/qua.2021.31)
+    - Romero, I. C., Nuñez Otaño, N. B., Gibson, M. E., Spears, T. M., Fairchild, C. J., Tarlton, L., Jones, S., Belkin, H. E., Warny, S., Pound, M. J. and O’Keefe, J. M. K., 2021, First Record of Fungal Diversity in the Tropical and Warm-Temperate Middle Miocene Climate Optimum Forests of Eurasia, Frontiers in Forests and Global Change, 1–18. [10.3389/ffgc.2021.768405](https://www.doi.org/10.3389/ffgc.2021.768405)
+- **2020**
+    - Yi, S., Jun, C.P., Jo, K. nam, Lee, H., Kim, M.S., Lee, S.D., Cao, X. and Lim, J., 2020, Asynchronous multi-decadal time-scale series of biotic and abiotic responses to precipitation during the last 1300 years. Scientific Reports, 10, pp. 1–10. [10.1038/s41598-020-74994-x](https://www.doi.org/10.1038/s41598-020-74994-x)
+- **2019**
+    - Chevalier, M., 2019, Enabling possibilities to quantify past climate from fossil assemblages at a global scale. Global and Planetary Change, 175, pp. 27–35. [10.1016/j.gloplacha.2019.01.016](https://www.doi.org/10.1016/j.gloplacha.2019.01.016)
+- **2017**
+    - Cordova, C.E., Scott, L., Chase, B.M. and Chevalier, M., 2017, Late Pleistocene-Holocene vegetation and climate change in the Middle Kalahari, Lake Ngami, Botswana. Quaternary Science Reviews, 171, pp. 199–215. [10.1016/j.quascirev.2017.06.036](https://www.doi.org/10.1016/j.quascirev.2017.06.036)
+- **2016**
+    - Lim, S., Chase, B.M., Chevalier, M. and Reimer, P.J., 2016, 50,000 years of climate in the Namib Desert, Pella, South Africa. Palaeogeography, Palaeoclimatology, Palaeoecology, 451, pp. 197–209. [10.1016/j.palaeo.2016.03.001](https://www.doi.org/10.1016/j.palaeo.2016.03.001)
+    - Chevalier, M. and Chase, B.M., 2016, Determining the drivers of long-term aridity variability: a southern African case study. Journal of Quaternary Science, 31, pp. 143–151. [10.1002/jqs.2850](https://www.doi.org/10.1002/jqs.2850)
+- **2015**
+    - Chase, B.M., Lim, S., Chevalier, M., Boom, A., Carr, A.S., Meadows, M.E. and Reimer, P.J., 2015, Influence of tropical easterlies in the southwestern Cape of Africa during the Holocene. Quaternary Science Reviews, 107, pp. 138–148.[10.1016/j.quascirev.2014.10.011](https://www.doi.org/10.1016/j.quascirev.2014.10.011)
+    - Chase, B.M., Boom, A., Carr, A.S., Carré, M., Chevalier, M., Meadows, M.E., Pedro, J.B., Stager, J.C. and Reimer, P.J., 2015, Evolving southwest African response to abrupt deglacial North Atlantic climate change events. Quaternary Science Reviews, 121, pp. 132–136. [10.1016/j.quascirev.2015.05.023](https://www.doi.org/10.1016/j.quascirev.2015.05.023)
+    - Chevalier, M. and Chase, B.M., 2015, Southeast African records reveal a coherent shift from high- to low-latitude forcing mechanisms along the east African margin across last glacial–interglacial transition. Quaternary Science Reviews, 125, pp. 117–130. [10.1016/j.quascirev.2015.07.009](https://www.doi.org/10.1016/j.quascirev.2015.07.009)
+- **2013**
+    - Truc, L., Chevalier, M., Favier, C., Cheddadi, R., Meadows, M.E., Scott, L., Carr, A.S., Smith, G.F. and Chase, B.M., 2013, Quantification of climate change for the last 20,000 years from Wonderkrater, South Africa: implications for the long-term dynamics of the Intertropical Convergence Zone. Palaeogeography, Palaeoclimatology, Palaeoecology, 386, pp. 575–587. [10.1016/j.palaeo](https://www.doi.org/10.1016/j.palaeo)
+
+<br >
+
+<img src="https://raw.githubusercontent.com/mchevalier2/crestr/master/webpage/crest-use-01.png" width="100%" style="background:none; border:none; box-shadow:none;" style="display: block; margin: auto;" />
+
+
+<img src="https://raw.githubusercontent.com/mchevalier2/crestr/master/webpage/crest-use-03.png" width="100%" style="background:none; border:none; box-shadow:none;" style="display: block; margin: auto;" />
+
+Last update: 03/01/2023
+
+N.B.: This list is as exhaustive as possible, but some studies may be missing. Contact me if you want your study to be added.
+
+<br >
+
+## References
+
+ - Chevalier, M., Cheddadi, R., Chase, B.M., 2014. CREST (Climate REconstruction
+   SofTware): a probability density function (PDF)-based quantitative climate
+   reconstruction method. *Clim. Past* 10, 2081–2098.
+   [10.5194/cp-10-2081-2014](https://www.doi.org/10.5194/cp-10-2081-2014)
+ - Chevalier, M., 2019. Enabling possibilities to quantify past climate from
+   fossil assemblages at a global scale. *Glob. Planet. Change* 175, 27–35.
+   [10.1016/j.gloplacha.2019.01.016](https://www.doi.org/10.1016/j.gloplacha.2019.01.016)
+ - Chevalier, M., Chase, B.M., Quick, L.J., Dupont, L.M. and Johnson, T.C., 2021.
+   Temperature change in subtropical southeastern Africa during the past 790,000 yr.
+   _Geology_ 49, 71–75. [10.1130/G47841.1](https://www.doi.org/10.1130/G47841.1)
+ - Chevalier, M., 2022. _crestr_ an R package to perform probabilistic climate
+   reconstructions from palaeoecological datasets. Clim. Past
+   [doi:10.5194/cp-18-821-2022](https://www.doi.org/10.5194/cp-18-821-2022)
