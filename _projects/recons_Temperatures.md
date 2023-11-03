@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Past tropical temperature
-description: Large temperature swings are crucial to understand water availability changes (Fig. reproduced from Baxter et al. 2023, Nature)
-img: assets/img/temp-ai.png
-importance: 1
-category: Palaeoenvironmental reconstructions
+title: Impact of temperature swings
+description: Characterising the impact of large temperature variations on water availability
+img: assets/img/temp-tropics.png
+importance: 2
+category: Palaeoenvironmental reconstructions in the tropics
 ---
 
 Every project has a beautiful feature showcase page.

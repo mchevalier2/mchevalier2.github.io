@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Long tropical pollen records
-description: A voyage through the fascinating glacial-interglacial cycles of the late Quaternary
-img: assets/img/fullUncer__bio1.jpg
-importance: 2
-category: Palaeoenvironmental reconstructions
+title: Beyond the last glacial period
+description: Uncovering Earth's fascinating climate history from long geological records
+img: assets/img/geological-eras.png
+importance: 3
+category: Palaeoenvironmental reconstructions in the tropics
 ---
 
 Every project has a beautiful feature showcase page.
