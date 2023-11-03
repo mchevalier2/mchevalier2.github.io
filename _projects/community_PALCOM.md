@@ -1,8 +1,8 @@
 ---
 layout: page
-title: The Mapping Ancient Africa project
-description: A focus on past African Climates, Vegetation & Humans
-img: assets/img/INQUA-MAA.jpg
+title: INQUA Paleoclimate Commission
+description: PALCOM seeks to develop international collaborations in various aspects of Quaternary palaeoclimate research.
+img: assets/img/inqua-logo.png
 importance: 3
 category: Community services
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: The crestr R package
-description: A universal tool to analyse palaeoecological datasets
-img: assets/img/3.jpg
+title: Reconstructing climate with crestr
+description: A universal R package to analyse palaeoecological datasets from terrestrial, lacustrine, and marine environments.
+img: assets/img/Rlogo.png
 importance: 1
 category: Community services
 ---
