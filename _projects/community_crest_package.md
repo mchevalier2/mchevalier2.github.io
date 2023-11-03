@@ -13,7 +13,7 @@ Detailed documentation is available on [the package's webpage](https://mchevalie
 
 
 
-You can now quickly visualise how to run a reconstruction with the _crestr_ cheat sheet. This document summarises the main functionalities of the package and illustrates the main key step you will have to follow to reconsturct environmental parameters from your data. [download here](https://raw.githubusercontent.com/mchevalier2/crestr/master/webpage/crestr_cheatsheet_v1.3.0.pdf)
+You can quickly visualise how to run a reconstruction with the _crestr_ cheat sheet. This document summarises the main functionalities of the package and illustrates the main key step you will have to follow to reconsturct environmental parameters from your data. [download here](https://raw.githubusercontent.com/mchevalier2/crestr/master/webpage/crestr_cheatsheet_v1.3.0.pdf)
 
 <img src="https://raw.githubusercontent.com/mchevalier2/crestr/master/webpage/crestr_cheatsheet_thumbnail.png" width="60%" style="background:none; border:none; box-shadow:none;" style="display: block; margin: auto;" />
 
