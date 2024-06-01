@@ -2,7 +2,7 @@
 layout: page
 permalink: /assets/museumfailures/
 title: museum of failures
-description: Drawing inspiration from the original Swedish Museum of Failures, I showcase my journey of attempts to secure grants and job opportunities since my PhD. Although most of these endeavours did not yield the desired outcomes, they have all been integral experiences that have sculpted my career and enriched my research. It is, however, critical to highlight that my journey is shared by many, even if our perception of it may be biased due to the prevalence of sharing successes over rejections. Rejection is an inherent part of the journey, one that offers valuable lessons for progress. Tenacity and perseverance are part of the process to pave the path to success (however defined). Trying, again and again, until luck eventually smiles upon us. &#128522;
+description: Drawing inspiration from the original Swedish Museum of Failures, I showcase my journey of attempts to secure grants and job opportunities since my PhD. Although most of these endeavours did not yield the desired outcomes, they have all been integral experiences that have sculpted my career and enriched my research. It is, however, critical to highlight that my journey is shared by many, even if our perception of it may be biased due to the prevalence of sharing successes over rejections. Rejection is an inherent part of the journey, one that offers valuable lessons for progress. 
 nav: false
 nav_order: 5
 ---
@@ -16,6 +16,18 @@ nav_order: 5
 <br />
 
 
+
+<div style="text-align:right; color:lightgrey; font-size:200%; font-weight:400">
+2024
+</div>
+---
+
+<ul>
+
+<li><font style="color:OrangeRed;">CNRS (permanent researcher position), University of Aix-Marseille, France.</font></li>
+<li><font style="color:OrangeRed;">Horizon Europe Call HORIZON-CL5-2024-D1-01-03 for a position at the University van Amsterdam, Netherlands.</font></li>
+</ul>
+<br />
 
 
 
