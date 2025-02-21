@@ -11,10 +11,10 @@ nav_order: 3
 
 - Chevalier et al. (2020): Mean annual tempeature reconstruction from marine core MD96-2048, Mozambique Channel (0--790,000 cal BP) DOI: 10.1594/PANGAEA.915923 [<a href="/assets/openscience/2020_MD96-2048_MAT.xlsx" download>MAT</a>]
 - Chevalier (2019): Annual precipitation reconstruction from Lake Van, Turkey (10,200--133,900 cal BP) DOI: 10.1594/PANGAEA.898171 [<a href="/assets/openscience/2019_Lake-Van_Annual-Rainfall.xlsx" download>Annual precip.</a>]
-- Cordova et al. (2017): Temperature and precipitation reconstruction from Lake Ngami, Botswana (0--16,700 cal BP) [<a href="/assets/openscience/2017_Lake-NGami_Summer-precip" download>MAT&precip.</a>]
+- Cordova et al. (2017): Temperature and precipitation reconstruction from Lake Ngami, Botswana (0--16,700 cal BP)
 - Lim et al. (2016): Temperature and precipitation reconstruction from Pella, South Africa (0--50,000 cal BP) [<a href="/assets/openscience/2016_Pella_MAT-Rainfall.xlsx" download>MAT&precip.</a>]
-- Chevalier and Chase (2016): South African Summer Rainfall zone (SRZ) aridity reconstructions (0-45,000 cal BP) [<a href="/assets/openscience/test.txt" download>aridity stacks</a>]
-- Chase et al. (2015a): Summer and Winter precipitation reconstruction from Katbakkies Pass, South Africa (690--6880 cal BP) [<a href="/assets/openscience/2015_Katbakkies-Pass_Summer-Winter-Precip" download>Summer&Winter precip</a>]
+- Chevalier and Chase (2016): South African Summer Rainfall zone (SRZ) aridity reconstructions (0-45,000 cal BP) [<a href="/assets/openscience/2016_Pella_MAT-Rainfall.xlsx" download>MAT&precip.</a>]
+- Chase et al. (2015a): Summer and Winter precipitation reconstruction from Katbakkies Pass, South Africa (690--6880 cal BP)
 - Chase et al. (2015b): Aridity reconstruction from De Rif, South Africa (0--19,400 cal BP) [<a href="/assets/openscience/2015_De-Rif_Aridity.xlsx" download>Aridity</a>]
 - Chevalier and Chase (2015): South African Summer Rainfall zone (SRZ) MAT and summer precipitation stacks (0--45,000 cal BP) [<a href="/assets/openscience/2015_Southern-Africa-SRZ_MAT-Rainfall.xlsx" download>MAT&precip stack</a>]
 
@@ -24,7 +24,7 @@ nav_order: 3
 The goal of _crestr_ is to produce probabilistic reconstructions of past climate change from fossil assemblage data (Chevalier, 2022). The package can be installed from the usual channels (CRAN and GitHub). The package includes a global calibration dataset for several palaeoecological proxies. A suite of graphical outputs were designed to enable an in-depth understanding of the results. More information is available from [https://mchevalier2.github.io/crestr/index.html](https://mchevalier2.github.io/crestr/index.html)
 
 <p align="center">
-    <img src="crestr-example-app.png" alt="crestr-example-app" width="80%"/>
+    <img src="/assets/openscience/crestr-example-app.png" alt="crestr-example-app" width="80%"/>
 </p>
 <div class="caption">
     Fig. 1: Example of pollen-based precipitation (top right) and temperature (bottom left and right) reconstructions derived subsets of the global calibration dataset for pollen data (top left).
@@ -38,7 +38,7 @@ How to cite: Chevalier, M.: _crestr_: an R package to perform probabilistic clim
 Modern and fossil pollen data are commonly used in paleoenvironmental studies to assess environmental changes in a given location. However, their discrete and discontinuous nature can restrict the conclusions that can be drawn from them. Having continuous spatial maps of pollen presence from point-based datasets would allow for a more robust regional analysis of these historical changes. To tackle this issue, we developed a Kriging-based framework that uses pollen presence and absence data to create continuous probabilistic maps of pollen presence. We tested and validated the model using the Modern European Pollen Database (EMPD2). Since the interpolation model relies solely on the observation coordinates for spatialising the data, similar maps can be generated for fossil pollen records. This approach opens up the possibility of spatially characterizing historical changes and potentially using them for quantitative paleoclimate reconstructions.
 
 <p align="center">
-    <img src="Interpolation-olea.png" alt="Interpolation-olea" width="80%"/>
+    <img src="/assets/openscience/Interpolation-olea.png" alt="Interpolation-olea" width="80%"/>
 </p>
 <div class="caption">
     Fig. 2: Illustration of the type of interpolations that our Kriging model produces based on the observation of the pollen of Olea across Europe and North Africa.
@@ -57,7 +57,7 @@ Access the data and scripts: Oriani et al. (2023). EUPollMap: The European atlas
 This database contains all the presence records of plants, beetles, rodents chironomids, foraminifera and diatoms contained in the GBIF database in October 2020. The coordinates of the presence records have been homogenised on a 15' and a 5' grid, and corresponding bioclimatic values from the Worldclim2.0 and World Ocean Atlas databases have been added. These data are formatted and ready to use by the crestr R package.
 
 <p align="center">
-    <img src="gbif4crest.png" alt="gbif4crest" width="80%"/>
+    <img src="/assets/openscience/gbif4crest.png" alt="gbif4crest" width="80%"/>
 </p>
 <div class="caption">
     Fig. 3: Quantity of calibration data available for six common palaeoecological proxies.
@@ -74,7 +74,7 @@ How to cite:
 The EMPD is a standardised, fully documented and quality-controlled dataset of modern pollen samples which can be openly accessed, and to which scientists can also contribute and help maintain. After a major community based effort starting in 2011 we have now established a modern surface sample database within the EPD that contains almost 5000 samples. The Eurasian Modern Pollen Database (EMPD) is now available and free to download. The data includes both specifically collected modern surface samples from a variety of environments (soil, moss bolsters, lake and bog sediments etc), as well as modern ‘core top’ samples from fossil pollen cores.
 
 <p align="center">
-    <img src="EMPD2.png" alt="EMPD2" width="80%"/>
+    <img src="/assets/openscience/EMPD2.png" alt="EMPD2" width="80%"/>
 </p>
 <div class="caption">
     Fig. 4: Distribution of the samples available in the EMPD2 dataset.
@@ -99,7 +99,7 @@ A relational database on late-Quaternary lake status of 67 sites in eastern and 
 - A number of additional tables is used to store lists of accepted values for specific fields or to link the different data tables together.
 
 <p align="center">
-    <img src="GLSDBAfrica.png" alt="GLSDBAfrica" width="80%"/>
+    <img src="/assets/openscience/GLSDBAfrica.png" alt="GLSDBAfrica" width="80%"/>
 </p>
 <div class="caption">
     Fig. 5: Composition of the GLSDB Africa database. (A) spatial distribution, (B) Time coverage of each record, (C) Quantity of dating points across time.
