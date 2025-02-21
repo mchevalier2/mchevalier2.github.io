@@ -5,7 +5,12 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 1
-display_categories: [Palaeoenvironmental reconstructions in the tropics, Embracing data uncertainties, Community services]
+display_categories:
+  [
+    Palaeoenvironmental reconstructions in the tropics,
+    Embracing data uncertainties,
+    Community services,
+  ]
 horizontal: false
 ---
 
