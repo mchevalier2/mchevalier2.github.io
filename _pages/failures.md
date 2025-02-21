@@ -2,7 +2,7 @@
 layout: page
 permalink: /assets/museumfailures/
 title: museum of failures
-description: Drawing inspiration from the original Swedish Museum of Failures, I showcase my journey of attempts to secure grants and job opportunities since my PhD. Although most of these endeavours did not yield the desired outcomes, they have all been integral experiences that have sculpted my career and enriched my research. It is, however, critical to highlight that my journey is shared by many, even if our perception of it may be biased due to the prevalence of sharing successes over rejections. Rejection is an inherent part of the journey, one that offers valuable lessons for progress. 
+description: Drawing inspiration from the original Swedish Museum of Failures, I showcase my journey of attempts to secure grants and job opportunities since my PhD. Although most of these endeavours did not yield the desired outcomes, they have all been integral experiences that have sculpted my career and enriched my research. It is, however, critical to highlight that my journey is shared by many, even if our perception of it may be biased due to the prevalence of sharing successes over rejections. Rejection is an inherent part of the journey, one that offers valuable lessons for progress.
 nav: false
 nav_order: 5
 ---
@@ -14,8 +14,6 @@ nav_order: 5
 </div>
 
 <br />
-
-
 
 <div style="text-align:right; color:lightgrey; font-size:200%; font-weight:400">
 2024
@@ -29,8 +27,6 @@ nav_order: 5
 </ul>
 <br />
 
-
-
 <div style="text-align:right; color:lightgrey; font-size:200%; font-weight:400">
 2023
 </div>
@@ -41,10 +37,9 @@ nav_order: 5
     <li><font style="color:OrangeRed;">Assistant Professor or Associate Professor in Quaternary Geology at the Department of Geoscience at Aarhus University (AU).</font></li>
     <li><font style="color:OrangeRed;">Lecturer in Physical Geography position at Royal Holloway University of London, UK.</font></li>
     <li><font style="color:OrangeRed;">SNSF starting Grant for a Junior Professorship position at the University of Basel, Switzerland.</font></li>
+
 </ul>
 <br />
-
-
 
 <div style="text-align:right; color:lightgrey; font-size:200%; font-weight:400">
 2022
@@ -62,8 +57,6 @@ nav_order: 5
 </ul>
 <br />
 
-
-
 <div style="text-align:right; color:lightgrey; font-size:200%; font-weight:400">
 2021
 </div>
@@ -77,8 +70,6 @@ nav_order: 5
 </ul>
 <br />
 
-
-
 <div style="text-align:right; color:lightgrey; font-size:200%; font-weight:400">
 2020
 </div>
@@ -89,8 +80,6 @@ nav_order: 5
     <li><font style="color:OrangeRed;">CNRS (permanent researcher position), University of Montpellier, France.</font></li>
 </ul>
 <br />
-
-
 
 <div style="text-align:right; color:lightgrey; font-size:200%; font-weight:400">
 2019
@@ -104,8 +93,6 @@ nav_order: 5
     <li><font style="color:OrangeRed;">CNRS (permanent researcher position), University of Montpellier, France.</font></li>
 </ul>
 <br />
-
-
 
 <div style="text-align:right; color:lightgrey; font-size:200%; font-weight:400">
 2016
