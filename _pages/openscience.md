@@ -9,7 +9,7 @@ nav_order: 3
 
 ### **Pollen-based climate reconstructions**
 
-- Chevalier et al. (2020): Mean annual tempeature reconstruction from marine core MD96-2048, Mozambique Channel (0--790,000 cal BP) DOI: 10.1594/PANGAEA.915923 [<a href="2020_MD96-2048_MAT.xlsx" download>MAT</a>]
+- Chevalier et al. (2020): Mean annual tempeature reconstruction from marine core MD96-2048, Mozambique Channel (0--790,000 cal BP) DOI: 10.1594/PANGAEA.915923 [<a href="/assets/openscience/2020_MD96-2048_MAT.xlsx" download>MAT</a>]
 - Chevalier (2019): Annual precipitation reconstruction from Lake Van, Turkey (10,200--133,900 cal BP) DOI: 10.1594/PANGAEA.898171 [<a href="2019_Lake-Van_Annual-Rainfall.xlsx" download>Annual precip.</a>]
 - Cordova et al. (2017): Temperature and precipitation reconstruction from Lake Ngami, Botswana (0--16,700 cal BP) [<a href="2017_Lake-NGami_Summer-precip" download>MAT&precip.</a>]
 - Lim et al. (2016): Temperature and precipitation reconstruction from Pella, South Africa (0--50,000 cal BP) [<a href="2016_Pella_MAT-Rainfall.xlsx" download>MAT&precip.</a>]
