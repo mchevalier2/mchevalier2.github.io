@@ -15,5 +15,5 @@ children:
     permalink: https://mchevalier2.github.io/online-cv/
   - title: divider
   - title: Github repositories
-    permalink: /assets/repositories/
+    permalink: /repositories/
 ---
