@@ -28,11 +28,11 @@ _(A) density of presence records available in my calibration dataset upscaled at
 <img src="https://raw.githubusercontent.com/mchevalier2/crestr/master/webpage/crest-use-02.png" width="100%" style="background:none; border:none; box-shadow:none;" style="display: block; margin: auto;" />
 
 - **2023**
-  - Hui, Z., Liu, J., Chevalier, M., Wei, X., Chen, P., Zhan, J., Peng, T., Zhou, X., 2023, Multiple forcing on Late Miocene East Asian Summer Monsoon Precipitation Variability in NE Tibetan Plateau. CATENA 221, 106752. [10.1016/j.catena.2022.106752](https://doi.org/10.1016/j.catena.2022.106752).
+  - Hui, Z., Liu, J., Chevalier, M., Wei, X., Chen, P., Zhan, J., Peng, T., Zhou, X., 2023, Multiple forcing on Late Miocene East Asian Summer Monsoon Precipitation Variability in NE Tibetan Plateau. CATENA 221, 106752. [10.1016/j.catena.2022.106752](https://www.sciencedirect.com/science/article/abs/pii/S034181622200738X).
 - **2022**
   - Gibson, M.E., McCoy, J., O’Keefe, J.M.K., Nuñez Otaño, N.B., Warny, S., Pound, M.J., 2022, Reconstructing Terrestrial Paleoclimates: A Comparison of the Co‐Existence Approach, Bayesian and Probability Reconstruction Techniques Using the UK Neogene. Paleoceanog. and Paleoclimatol. 37, e2021PA004358. [10.1029/2021PA004358](https://doi.org/10.1029/2021PA004358)
 - **2021**
-  - Chevalier, M., Chase, B.M., Quick, L.J., Dupont, L.M. and Johnson, T.C., 2021, Temperature change in subtropical southeastern Africa during the past 790,000 yr. Geology, 49, pp. 71–75. [10.1016/j.palaeo.2021.110609](https://www.doi.org/10.1016/j.palaeo.2021.110609)
+  - Chevalier, M., Chase, B.M., Quick, L.J., Dupont, L.M. and Johnson, T.C., 2021, Temperature change in subtropical southeastern Africa during the past 790,000 yr. Geology, 49, pp. 71–75. [10.1016/j.palaeo.2021.110609](https://www.sciencedirect.com/science/article/pii/S0031018221003941)
   - Hui, Z., Zhou, X., Chevalier, M., Wei, X., Pan, Y. and Chen, Y., 2021, Miocene East Asia summer monsoon precipitation variability and its possible driving forces. Palaeogeography, Palaeoclimatology, Palaeoecology, pp. 110609. [10.1130/G47841.1](https://www.doi.org/10.1130/G47841.1)
   - Quick, L.J., Chase, B.M., Carr, A.S., Chevalier, M., Grobler, B.A. and Meadows, M.E., 2021, A 25,000 year record of climate and vegetation change from the southwestern Cape coast, South Africa. Quaternary Research, pp. 1–18. [10.1017/qua.2021.31](https://www.doi.org/10.1017/qua.2021.31)
   - Romero, I. C., Nuñez Otaño, N. B., Gibson, M. E., Spears, T. M., Fairchild, C. J., Tarlton, L., Jones, S., Belkin, H. E., Warny, S., Pound, M. J. and O’Keefe, J. M. K., 2021, First Record of Fungal Diversity in the Tropical and Warm-Temperate Middle Miocene Climate Optimum Forests of Eurasia, Frontiers in Forests and Global Change, 1–18. [10.3389/ffgc.2021.768405](https://www.doi.org/10.3389/ffgc.2021.768405)
@@ -44,7 +44,7 @@ _(A) density of presence records available in my calibration dataset upscaled at
   - Cordova, C.E., Scott, L., Chase, B.M. and Chevalier, M., 2017, Late Pleistocene-Holocene vegetation and climate change in the Middle Kalahari, Lake Ngami, Botswana. Quaternary Science Reviews, 171, pp. 199–215. [10.1016/j.quascirev.2017.06.036](https://www.doi.org/10.1016/j.quascirev.2017.06.036)
 - **2016**
   - Lim, S., Chase, B.M., Chevalier, M. and Reimer, P.J., 2016, 50,000 years of climate in the Namib Desert, Pella, South Africa. Palaeogeography, Palaeoclimatology, Palaeoecology, 451, pp. 197–209. [10.1016/j.palaeo.2016.03.001](https://www.doi.org/10.1016/j.palaeo.2016.03.001)
-  - Chevalier, M. and Chase, B.M., 2016, Determining the drivers of long-term aridity variability: a southern African case study. Journal of Quaternary Science, 31, pp. 143–151. [10.1002/jqs.2850](https://www.doi.org/10.1002/jqs.2850)
+  - Chevalier, M. and Chase, B.M., 2016, Determining the drivers of long-term aridity variability: a southern African case study. Journal of Quaternary Science, 31, pp. 143–151. [10.1002/jqs.2850](https://onlinelibrary.wiley.com/doi/10.1002/jqs.2850)
 - **2015**
   - Chase, B.M., Lim, S., Chevalier, M., Boom, A., Carr, A.S., Meadows, M.E. and Reimer, P.J., 2015, Influence of tropical easterlies in the southwestern Cape of Africa during the Holocene. Quaternary Science Reviews, 107, pp. 138–148.[10.1016/j.quascirev.2014.10.011](https://www.doi.org/10.1016/j.quascirev.2014.10.011)
   - Chase, B.M., Boom, A., Carr, A.S., Carré, M., Chevalier, M., Meadows, M.E., Pedro, J.B., Stager, J.C. and Reimer, P.J., 2015, Evolving southwest African response to abrupt deglacial North Atlantic climate change events. Quaternary Science Reviews, 121, pp. 132–136. [10.1016/j.quascirev.2015.05.023](https://www.doi.org/10.1016/j.quascirev.2015.05.023)
@@ -75,7 +75,7 @@ N.B.: This list is as exhaustive as possible, but some studies may be missing. C
   [10.1016/j.gloplacha.2019.01.016](https://www.doi.org/10.1016/j.gloplacha.2019.01.016)
 - Chevalier, M., Chase, B.M., Quick, L.J., Dupont, L.M. and Johnson, T.C., 2021.
   Temperature change in subtropical southeastern Africa during the past 790,000 yr.
-  _Geology_ 49, 71–75. [10.1130/G47841.1](https://www.doi.org/10.1130/G47841.1)
+  _Geology_ 49, 71–75. [10.1130/G47841.1](https://pubs.geoscienceworld.org/gsa/geology/article/49/1/71/590736/Temperature-change-in-subtropical-southeastern)
 - Chevalier, M., 2022. _crestr_ an R package to perform probabilistic climate
   reconstructions from palaeoecological datasets. Clim. Past
   [doi:10.5194/cp-18-821-2022](https://www.doi.org/10.5194/cp-18-821-2022)

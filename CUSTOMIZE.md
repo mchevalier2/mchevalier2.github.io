@@ -69,7 +69,7 @@ You can create new projects by adding new Markdown files in the [\_projects](_pr
 
 ## Adding some news
 
-You can add news in the about page by adding new Markdown files in the [\_news](_news/) directory. There are currently two types of news: inline news and news with a link. News with a link take you to a new page while inline news are displayed directly in the about page. The easiest way to create yours is to copy an existing news and modify it.
+You can add news in the about page by adding new Markdown files in the \_news directory. There are currently two types of news: inline news and news with a link. News with a link take you to a new page while inline news are displayed directly in the about page. The easiest way to create yours is to copy an existing news and modify it.
 
 ## Adding Collections
 
@@ -173,7 +173,7 @@ Here is a list of the main components that you may want to delete, and how to do
 
 To remove the blog, you have to:
 
-- delete [\_posts](_posts/) directory
+- delete \_posts directory
 - delete blog page \_pages/blog.md
 - remove reference to blog page in our [\_pages/dropdown.md](_pages/dropdown.md)
 - remove the `latest_posts` part in [\_pages/about.md](_pages/about.md)

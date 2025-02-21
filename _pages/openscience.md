@@ -10,13 +10,13 @@ nav_order: 3
 ### **Pollen-based climate reconstructions**
 
 - Chevalier et al. (2020): Mean annual tempeature reconstruction from marine core MD96-2048, Mozambique Channel (0--790,000 cal BP) DOI: 10.1594/PANGAEA.915923 [<a href="/assets/openscience/2020_MD96-2048_MAT.xlsx" download>MAT</a>]
-- Chevalier (2019): Annual precipitation reconstruction from Lake Van, Turkey (10,200--133,900 cal BP) DOI: 10.1594/PANGAEA.898171 [<a href="2019_Lake-Van_Annual-Rainfall.xlsx" download>Annual precip.</a>]
-- Cordova et al. (2017): Temperature and precipitation reconstruction from Lake Ngami, Botswana (0--16,700 cal BP) [<a href="2017_Lake-NGami_Summer-precip" download>MAT&precip.</a>]
-- Lim et al. (2016): Temperature and precipitation reconstruction from Pella, South Africa (0--50,000 cal BP) [<a href="2016_Pella_MAT-Rainfall.xlsx" download>MAT&precip.</a>]
-- Chevalier and Chase (2016): South African Summer Rainfall zone (SRZ) aridity reconstructions (0-45,000 cal BP) [<a href="test.txt" download>aridity stacks</a>]
-- Chase et al. (2015a): Summer and Winter precipitation reconstruction from Katbakkies Pass, South Africa (690--6880 cal BP) [<a href="2015_Katbakkies-Pass_Summer-Winter-Precip" download>Summer&Winter precip</a>]
-- Chase et al. (2015b): Aridity reconstruction from De Rif, South Africa (0--19,400 cal BP) [<a href="2015_De-Rif_Aridity.xlsx" download>Aridity</a>]
-- Chevalier and Chase (2015): South African Summer Rainfall zone (SRZ) MAT and summer precipitation stacks (0--45,000 cal BP) [<a href="2015_Southern-Africa-SRZ_MAT-Rainfall.xlsx" download>MAT&precip stack</a>]
+- Chevalier (2019): Annual precipitation reconstruction from Lake Van, Turkey (10,200--133,900 cal BP) DOI: 10.1594/PANGAEA.898171 [<a href="/assets/openscience/2019_Lake-Van_Annual-Rainfall.xlsx" download>Annual precip.</a>]
+- Cordova et al. (2017): Temperature and precipitation reconstruction from Lake Ngami, Botswana (0--16,700 cal BP) [<a href="/assets/openscience/2017_Lake-NGami_Summer-precip" download>MAT&precip.</a>]
+- Lim et al. (2016): Temperature and precipitation reconstruction from Pella, South Africa (0--50,000 cal BP) [<a href="/assets/openscience/2016_Pella_MAT-Rainfall.xlsx" download>MAT&precip.</a>]
+- Chevalier and Chase (2016): South African Summer Rainfall zone (SRZ) aridity reconstructions (0-45,000 cal BP) [<a href="/assets/openscience/test.txt" download>aridity stacks</a>]
+- Chase et al. (2015a): Summer and Winter precipitation reconstruction from Katbakkies Pass, South Africa (690--6880 cal BP) [<a href="/assets/openscience/2015_Katbakkies-Pass_Summer-Winter-Precip" download>Summer&Winter precip</a>]
+- Chase et al. (2015b): Aridity reconstruction from De Rif, South Africa (0--19,400 cal BP) [<a href="/assets/openscience/2015_De-Rif_Aridity.xlsx" download>Aridity</a>]
+- Chevalier and Chase (2015): South African Summer Rainfall zone (SRZ) MAT and summer precipitation stacks (0--45,000 cal BP) [<a href="/assets/openscience/2015_Southern-Africa-SRZ_MAT-Rainfall.xlsx" download>MAT&precip stack</a>]
 
 <br />
 ### **_crestr_ An R package to perform probabilistic palaeoclimate reconstructions from palaeoecological datasets**
