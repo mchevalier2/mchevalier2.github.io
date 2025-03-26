@@ -25,9 +25,9 @@ _"I’ve learned to analyse data through a mix of classes, online tutorials, and
 
 After nearly 15 years as a researcher, data scientist, and data engineer, I’ve seen how often people struggle with these practical challenges. Whether you’re an early-career researcher, a professional handling real-world data, or someone looking to make AI work for you, my courses provide hands-on, actionable guidance to bridge the gap between theory and practice. **With the right skills, you’ll not only take control of your workflow and troubleshoot with confidence, but also unlock the full potential of the hard skills you already know in theory but struggle to apply.**
 
-##### Courses to bridge the gap
+##### DataSharp Academy: Courses to bridge the gap
 
-I’ve developed a series of courses to help you overcome these challenges:
+With [DataSharp Academy](https://datasharpacademy.com), I have developed a series of courses to help you overcome these challenges:
 
 - **Demystifying data analysis: from organising your environment to curating your data**
 - **R fundamentals to harness AI generated code**
@@ -37,11 +37,11 @@ I’ve developed a series of courses to help you overcome these challenges:
 
 I also offer tailored training sessions designed to address the specific needs of your team or research group. If you want to empower your people with practical data analysis skills, let’s build a workshop that fits your needs.
 
-**Get in touch at [workshops@manuelchevalier.com](mailto:workshops@manuelchevalier.com) and let’s find the right solution.**
+**Get in touch at [contact@datasharpacademy.com](mailto:contact@datasharpacademy.com) and let’s find the right solution.**
 
 ---
 
-#### **~~Who I am~~ Who I was as a researcher**
+#### **My Research**
 
 I am a paleoclimatologist focusing on deepening our understanding of late Quaternary climate change in the tropics. While I worked with several climate indicators, the bulk of my work involves pollen data because of their versatility as climate indicators and strong connection with ecological principles. I analyse these pollen records using advanced statistical techniques that I develop and tailor to quantify past climate changes and their uncertainties.
 
