@@ -98,14 +98,21 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%70%61%6C%65%6F@%6D%61%6E%75%65%6C%63%68%65%76%61%6C%69%65%72.%63%6F%6D", "_blank");
+          window.open("mailto:%6D%61%6E%75%65%6C.%63%68%65%76%61%6C%69%65%72@%44%61%74%61%53%68%61%72%70%41%63%61%64%65%6D%79.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/mchevalier2# your GitHub user name", "_blank");
+          window.open("https://github.com/mchevalier2", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/manuel-chevalier", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -113,13 +120,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0000-0002-8183-9881", "_blank");
-        },
-      },{
-        id: 'social-publons',
-        title: 'Publons',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://publons.com/a/1344211/", "_blank");
         },
       },{
         id: 'social-researchgate',
@@ -134,6 +134,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=LwFlIRkAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://DataSharpAcademy.com", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/ChevalierManu", "_blank");
         },
       },{
       id: 'light-theme',
