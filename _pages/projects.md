@@ -18,7 +18,7 @@ This page summarises the array of research projects that currently hold my atten
 
 <br/>
 
-**Note: Due to technical issues, the content of some projects' page is not accessible. I am working on this.**
+**Note: Due to technical issues, the content of some projects' page is not accessible anymore. This website is not maintained.**
 
 <!-- pages/projects.md -->
 <div class="projects">

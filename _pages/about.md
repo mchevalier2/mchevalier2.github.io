@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: |-
-  <a href='https://www2.meteo.uni-bonn.de/forschung/gruppen/klimadynamik/'>Affiliation</a>. Meteorology Department, University of Bonn, Bonn, Germany.
+  <a href='https://DataSharpAcademy.com'>Affiliation</a>. Data Scientist & Teacher at DataSharp Academy.
 
 profile:
   align: right
@@ -15,51 +15,65 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-#### **Empowering scientists to generate powerful data analysis and visuals**
 
-_"I’ve learned to analyse data through a mix of classes, online tutorials, and hands-on projects, but my training has always been focused on specific tools and techniques—like running a regression model or using a particular package. While I can follow tutorials and write scripts, I often struggle when things don’t go as planned. Debugging takes forever, my workflow is messy, and I don’t always know how to ask the right questions—whether from AI tools or colleagues. I see people around me working more efficiently, but I can’t figure out what I’m missing. I know the hard skills in theory, but applying them in real-world scenarios—especially with messy data—is frustrating. I want to bridge this gap, get unstuck faster, and work with more confidence."_ **If this sounds familiar, this course is for you.**
+After nearly 15 years of academic research at the intersection of climate science and data modelling, I’ve transitioned to a new phase of my career that blends my scientific expertise with practical, accessible training for data scientists in the making.
 
-##### The missing piece in data analysis
+<div style="margin-top: 40px;">
+<h3><strong>The origin story</strong></h3>
+</div>
 
-**Data analysis isn’t just about coding -- it’s about structuring your work effectively, debugging efficiently, and knowing how to ask the right questions.** We’ve all taken courses that teach us how to build complex models or use advanced techniques, only to find that, in the real world, nothing works as expected. Those examples assume perfect data, but reality is messy: files won’t load, errors pile up, and AI-generated scripts break in unexpected ways.
 
-After nearly 15 years as a researcher, data scientist, and data engineer, I’ve seen how often people struggle with these practical challenges. Whether you’re an early-career researcher, a professional handling real-world data, or someone looking to make AI work for you, my courses provide hands-on, actionable guidance to bridge the gap between theory and practice. **With the right skills, you’ll not only take control of your workflow and troubleshoot with confidence, but also unlock the full potential of the hard skills you already know in theory but struggle to apply.**
+We’ve all taken courses that teach us how to build complex models or use advanced techniques, only to find that in the real world, nothing works as expected. Those examples assume perfect data but reality is messy: files won’t load, errors pile up, and AI-generated scripts break in unexpected ways. I’ve seen these challenges time and again, and, most importantly, how often people struggle to overcome them.
 
-##### DataSharp Academy: Courses to bridge the gap
+> Data Science isn’t just about coding. It’s about structuring your work, troubleshooting efficiently, and asking the right questions.
 
-With [DataSharp Academy](https://datasharpacademy.com), I have developed a series of courses to help you overcome these challenges:
+Whether you’re an early-career researcher, a professional working with real-world data, or someone trying to make AI work for you, my courses provide hands-on, actionable guidance to bridge the gap between theory and practice.
+**With the right skills, you can take control of your workflow, troubleshoot with confidence, and finally apply the hard skills you’ve been trying to master.**
 
-- **Demystifying data analysis: from organising your environment to curating your data**
-- **R fundamentals to harness AI generated code**
-- **Data visualisation with R and ggplot**
-- **Python basics and virtual environments**
-- **Advanced R/python to manipulate different data structures**
+<div style="margin-top: 40px;">
+<h3><strong>Meet DataSharp Academy</strong></h3>
+</div>
 
-I also offer tailored training sessions designed to address the specific needs of your team or research group. If you want to empower your people with practical data analysis skills, let’s build a workshop that fits your needs.
+At **DataSharp Academy**, I help researchers, students, and professionals build strong foundations in data analysis. I design classes that reflect the real demands of data work, from basic coding to managing complex workflows.
 
-**Get in touch at [contact@datasharpacademy.com](mailto:contact@datasharpacademy.com) and let’s find the right solution.**
+<br>
+#### _Real data. Practical skills. Lasting impact._
 
----
+Whether you're just starting to code or looking to make sense of messy datasets, I offer:
 
-#### **My Research**
+- **Online workshops** in R, Python, and data visualisation
+- **Team & event workshops** tailored to your data and research needs
+- **1-on-1 consulting** to clean up workflows, troubleshoot scripts, or build reproducible pipelines
 
-I am a paleoclimatologist focusing on deepening our understanding of late Quaternary climate change in the tropics. While I worked with several climate indicators, the bulk of my work involves pollen data because of their versatility as climate indicators and strong connection with ecological principles. I analyse these pollen records using advanced statistical techniques that I develop and tailor to quantify past climate changes and their uncertainties.
+> **DSA is for people who want to work smarter with data — without getting lost in unnecessary complexity.**
 
-##### **The context of my research**
+Explore my latest workshops at [DataSharpAcademy.com](https://datasharpacademy.com)
+Or get in touch at [manuel.chevalier@datasharpacademy.com](mailto:manuel.chevalier@datasharpacademy.com) if you’d like to work together.
 
-Accurate quantitative estimates of past climate play a vital role in characterising past climate changes in a given region and assessing the performance of Earth System Models (ESMs). However, recent studies compiling climate data have revealed a significant disparity in the quality and quantity of quantified climate reconstructions between tropical and southern temperate regions, compared to the wealth of data available from the Northern Hemisphere extratropics and, to some extent, Antarctica. This glaring disparity underscores our limited understanding of past climate variability in these crucial regions, introducing considerable uncertainty into both past and future climate simulations. Beyond the evident challenges this poses for our grasp of regional climate dynamics, these pronounced "quantification data gaps" also cast a shadow over our global understanding of the climate system's dynamics as a whole. Given the contemporary context of ongoing and projected climate change, there exists a pressing imperative to acquire more comprehensive and refined climate reconstructions from these less-studied regions. **Enhanced comprehension of past climate variations in these areas will be pivotal to provide essential pieces of the puzzle and aid in unraveling the spatiotemporal connections among various elements of the global climate system.**
 
-##### **What I used to do**
 
-One aspect of my research centers on accurately estimating and accounting for the inherent uncertainties in natural proxy data to reconstruct climates beyond the instrumental period. I have pioneered a specialised reconstruction method known as CREST, designed to specifically address the challenges posed by the diverse and complex vegetation of tropical regions. My work extends beyond methodology; it delves into the intricate interplay between palaeodata and climate models. I leverage the unique strengths of both to gain deeper insights into past climate dynamics. With these innovative tools at my disposal, I explore the spatial manifestations of past climate change in the tropics, spanning time scales from centuries to the broader context of glacial-interglacial cycles.
+<div style="margin-top: 40px;">
+<h3><strong>A strong foundation in research</strong></h3>
+</div>
 
-Despite the urgency of comprehensively analysing numerous records to address quantification data gaps, I hold a deep appreciation for the unique character of each individual record. My work is dedicated to the meticulous statistical examination of these records on an individual basis, thus circumventing the pitfalls associated with large-scale, indiscriminate analyses. To achieve this, I aim to collaborate closely with regional and proxy experts, fostering the highest level of accuracy in our data modelling and interpretation. By working in partnership, we can develop collaborative initiatives encompassing a wide range of topics falling within the broad scope of _enhancing our comprehension of past climate change across the Global South_. Drawing upon my extensive experience with various climate proxies, derived from diverse regions and spanning different time scales, I am eager to contribute to our collective pursuit of knowledge in this field.
+Before launching DataSharp Academy, I spent nearly 15 years as a palaeoclimatologist focusing on late Quaternary climate change in the tropics. While I’ve worked with several types of climate proxies, my primary focus has been on fossil pollen data due to their versatility as indicators and strong ecological grounding.
 
-##### **Collaborations**
+My research centred on:
+- Reconstructing tropical climate at glacial–interglacial scales
+- Curating large data collections to extract reliable information from (unstructured) chaos
+- Developing robust statistical tools for climate reconstruction, including the [`crestr`](https://github.com/mchevalier2/crestr) R package
 
-**Irrespective of your current career stage (student, Early-Career Researcher, or established Scientist) or location in the World, I am interested in working with you to further our understanding of past climate change in the Global South.** You can reach me at [paleo@manuelchevalier.com](paleo@manuelchevalier.com).
+A major focus of my work was closing the "quantification gap" in climate reconstructions by addressing the data imbalance between well-studied regions (e.g. the Northern Hemisphere) and tropical or southern regions that remain underrepresented in global climate archives. These gaps introduce uncertainty into both our historical understanding and future climate simulations.
 
-\
+To address this, I developed CREST, a method specifically tailored to the ecological complexity of tropical systems. My approach combines quantitative rigour with close collaboration across disciplines, ensuring high-quality reconstructions that are both methodologically sound and ecologically meaningful.
+
+This experience shaped my scientific perspective and taught me how crucial it is to bridge the gap between theoretical methods and practical data analysis. That insight now sits at the heart of **DataSharp Academy**.
+
+You can explore a selection of my [research publications](https://www.manuelchevalier.com/publications/) or browse some of the [open tools](./assets/openscience/) I’ve developed along the way.
+
+
+
+
 
 ##### Keywords
 
