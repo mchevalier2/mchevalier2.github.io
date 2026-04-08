@@ -15,13 +15,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-
 After nearly 15 years of academic research at the intersection of climate science and data modelling, I’ve transitioned to a new phase of my career that blends my scientific expertise with practical, accessible training for data scientists in the making.
 
 <div style="margin-top: 40px;">
 <h3><strong>The origin story</strong></h3>
 </div>
-
 
 We’ve all taken courses that teach us how to build complex models or use advanced techniques, only to find that in the real world, nothing works as expected. Those examples assume perfect data but reality is messy: files won’t load, errors pile up, and AI-generated scripts break in unexpected ways. I’ve seen these challenges time and again, and, most importantly, how often people struggle to overcome them.
 
@@ -50,8 +48,6 @@ Whether you're just starting to code or looking to make sense of messy datasets,
 Explore my latest workshops at [DataSharpAcademy.com](https://datasharpacademy.com)
 Or get in touch at [manuel.chevalier@datasharpacademy.com](mailto:manuel.chevalier@datasharpacademy.com) if you’d like to work together.
 
-
-
 <div style="margin-top: 40px;">
 <h3><strong>A strong foundation in research</strong></h3>
 </div>
@@ -59,6 +55,7 @@ Or get in touch at [manuel.chevalier@datasharpacademy.com](mailto:manuel.chevali
 Before launching DataSharp Academy, I spent nearly 15 years as a palaeoclimatologist focusing on late Quaternary climate change in the tropics. While I’ve worked with several types of climate proxies, my primary focus has been on fossil pollen data due to their versatility as indicators and strong ecological grounding.
 
 My research centred on:
+
 - Reconstructing tropical climate at glacial–interglacial scales
 - Curating large data collections to extract reliable information from (unstructured) chaos
 - Developing robust statistical tools for climate reconstruction, including the [`crestr`](https://github.com/mchevalier2/crestr) R package
@@ -70,10 +67,6 @@ To address this, I developed CREST, a method specifically tailored to the ecolog
 This experience shaped my scientific perspective and taught me how crucial it is to bridge the gap between theoretical methods and practical data analysis. That insight now sits at the heart of **DataSharp Academy**.
 
 You can explore a selection of my [research publications](https://www.manuelchevalier.com/publications/) or browse some of the [open tools](./assets/openscience/) I’ve developed along the way.
-
-
-
-
 
 ##### Keywords
 
